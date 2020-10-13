@@ -6,6 +6,11 @@ Under the V-Model, the corresponding testing phase of the development phase is p
 •	Easy to manage due to the rigidity of the model.Each phase has specific deliverables and a review process.
 •	V-shaped Model has higher chance of success over the waterfall model due to the development of test plans during the life cycle. It works well for small projects where requirements are easily understood.
 •	Requirements have to be very clear before the project starts, because it is usually expensive to go back and make changes.
+
+
+![sdlc_v_model](https://user-images.githubusercontent.com/72759545/95889735-7a653380-0d8b-11eb-98a9-aa50a9d9e72d.jpg)
+
+
 ## Waterfall Model
    In "The Waterfall" approach, the whole process of software development is divided into separate phases. In this Waterfall model, typically, the outcome of one phase acts as the input for the next phase sequentially.
 •	Simple and easy to understand and use.
