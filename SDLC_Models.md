@@ -35,7 +35,8 @@ The following illustration depicts the different phases in a V-Model of the SDLC
 •	Development can be divided into smaller parts and the risky parts can be developed earlier which helps in better risk management.
 
    Spiral Model:
-   ![sdlc_spiral_model](https://user-images.githubusercontent.com/72759545/95891424-bc8f7480-0d8d-11eb-9fa4-4682e2cd19db.jpg)
+   
+   
    
 
 
