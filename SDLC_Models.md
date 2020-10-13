@@ -37,6 +37,9 @@ The following illustration depicts the different phases in a V-Model of the SDLC
    Spiral Model:
    
    
+   ![sdlc_spiral_model](https://user-images.githubusercontent.com/72759545/95891710-214acf00-0d8e-11eb-831f-b0ed78513b42.jpg)
+   
+   
    
 
 
